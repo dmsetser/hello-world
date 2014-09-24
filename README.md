@@ -1,4 +1,1 @@
-hello-world
-===========
-
-Just another repository
+I've been writing perl, bash, a bit of C, C++. Learning github.
